@@ -1,11 +1,11 @@
 
 {
 
-    "name": "MG",
+    "name": "🅷︎🅴︎🅻︎🅿︎🅴︎🆁︎",
 
-    "description": "A Modular telegram bot.",
+    "description": "CLASSPLUS EXTRACTOR .",
 
-    "repository": "https://github.com/adityasirohi4/mg-notes",
+    "repository": "https://github.com/hackercoder24/cptxtextract",
     "buildpacks":[
         {
             "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
