@@ -8,4 +8,4 @@ BOT_TOKEN = getenv("BOT_TOKEN", "7668997178:AAF4ulorEaLSEkHGppTHvekl27IOZnbBDNY"
 OWNER_ID = int(getenv("OWNER_ID", "8004315740"))
 SUDO_USERS = list(map(int, getenv("SUDO_USERS", "8004315740").split()))
 MONGO_URL = getenv("MONGO_DB", "mongodb+srv://daxxop:daxxop@daxxop.dg3umlc.mongodb.net/?retryWrites=true&w=majority")
-CHANNEL_ID = int(getenv("CHANNEL_ID", "-"))
+CHANNEL_ID = int(getenv("CHANNEL_ID", "-1002674234342"))
